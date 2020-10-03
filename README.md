@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi! Welcome to my Github page.
+## I am Dhruva. I am a second year Masters in Data Science student at Indiana University, Bloomington. 👋
 
 <!--
 **dhruvabhavsar/dhruvabhavsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
