@@ -3,8 +3,14 @@
 
 ## Hi there 👋! Welcome to my Github page. :nerd_face:
 
-I am a second year Masters in Data Science student at Indiana University, Bloomington. I did my undergraduate in Computer Engineering from Ahmedabad, India.
-I have 2.5 years of experience working as a System Engineer at Tata Consultancy Services. My main areas of interest are Machine Learning, Computer Vision and Natural Language Processing. 
+:mortar_board: I am a second year Masters in Data Science student at Indiana University, Bloomington. I did my undergraduate in Computer Engineering from Ahmedabad, India.
+
+:briefcase: I have 2.5 years of experience working as a System Engineer at Tata Consultancy Services. 
+
+:computer: My main areas of interest are Machine Learning, Computer Vision and Natural Language Processing. 
+
+:email: Contact me: dhruvabhavsar@gmail.com
+
 
 <!--
 **dhruvabhavsar/dhruvabhavsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
