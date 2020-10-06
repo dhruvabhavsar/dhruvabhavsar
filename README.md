@@ -1,5 +1,5 @@
 
-![Cover pic](/images/cover.png)
+![Cover pic](/images/cover1.pdf)
 
 ## Hi there 👋! Welcome to my Github page. :nerd_face:
 
