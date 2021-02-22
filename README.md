@@ -7,7 +7,7 @@
 
 :briefcase: I have 2.5 years of experience working as a System Engineer at Tata Consultancy Services. 
 
-:computer: My main areas of interest are Machine Learning, Computer Vision and Natural Language Processing. 
+:computer: My main areas of interest are Machine Learning, Computer Vision, Natural Language Processing and Cloud Computing. 
 
 :email: Contact me: dhruvabhavsar@gmail.com
 
